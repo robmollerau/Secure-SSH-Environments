@@ -10,4 +10,4 @@ Provides strategies and technical configuration samples on how to better secure 
 
 ## License
 
-Copyright (C) 2021 - Robert Moller - All Rights Reserved
+Copyright (c) 2021 - Robert Moller - All Rights Reserved
